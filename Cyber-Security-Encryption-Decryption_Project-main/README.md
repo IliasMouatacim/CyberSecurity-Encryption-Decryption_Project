@@ -98,17 +98,3 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
-
-Please ensure your code adheres to the project's coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For questions, suggestions, or issues, please contact the project maintainer at anuragpatidar698@gmail.com.
-
----
-
-Thank you for using the Cyber Security Project for Message Encryption and Decryption! We hope this tool helps you secure your communications effectively.
